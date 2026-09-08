@@ -1,0 +1,22 @@
+How Is Cancer Diagnosed?
+There is no single test that can accurately diagnose cancer. The complete evaluation of a patient usually requires a thorough history and physical examination along with diagnostic testing. Many tests are needed to determine whether a person has cancer, or if another condition (such as an infection) is mimicking the symptoms of cancer. Effective diagnostic testing is used to confirm or eliminate the presence of disease, monitor the disease process, and to plan for and evaluate the effectiveness of treatment. In some cases, it is necessary to repeat testing when a person's condition has changed, if a sample collected was not of good quality, or an abnormal test result needs to be confirmed. Diagnostic procedures for cancer may include imaging, laboratory tests (including tests for tumor markers), tumor biopsy, endoscopic examination, surgery, or genetic testing.
+Cancer diagnosis methods:
+
+* Lab tests
+* Diagnostic imaging
+* Endoscopic exams
+* Genetic tests
+* Tumor biopsies
+
+What are the different types of lab tests used to diagnose cancer?
+Clinical chemistry uses chemical processes to measure levels of chemical components in body fluids and tissues. The most common specimens used in clinical chemistry are blood and urine. Many different tests exist to detect and measure almost any type of chemical component in blood or urine. Components may include blood glucose, electrolytes, enzymes, hormones, lipids (fats), other metabolic substances, and proteins.
+The following are some of the more common laboratory tests:
+
+* Blood tests
+* [Complete blood count (CBC)]
+* Urinalysis
+* Tumor markers
+
+[Diagnostic imaging]
+Diagnostic radiology has advanced significantly with new instruments and techniques that improve cancer detection and help patients avoid surgery. Leading centers, such as the [Stanford Cancer Center](https://med.stanford.edu/cancer.html), utilize advanced technology and expert staff who also serve as a reference for outside physicians needing complex image interpretations.
+
