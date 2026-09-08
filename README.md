@@ -98,7 +98,7 @@ AI-Data-Research-Assistant/
 ### 1. Clone the repository
 
 ```bash
-git clone <YOUR_GITHUB_REPOSITORY_URL>
+git clone <https://github.com/Jovita15-anto/Multimodal-RAG-Research-Assistant.git>
 cd AI-Data-Research-Assistant
 uv sync
 ollama pull llama3.2:latest
